@@ -1,0 +1,48 @@
+[{
+        "id": 1,
+        "key": "ab",
+        "name": "General health care",
+        "discription":"Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes processes." ,
+        "price": 3000,
+        "img": "https://i.ibb.co/nb1svng/image.png"
+    }, {
+        "id": 2,
+        "key": "bc",
+        "name": "Dental services",
+        "discription": "Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures.",
+        "salary": 2000,
+        "img": "https://i.ibb.co/f1tTnG2/image.png"
+    }, {
+        "id": 3,
+        "key": "cd",
+        "name": "Screening",
+        "discription": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital.",
+        "salary": 2100,
+       
+        "img": "https://i.ibb.co/tQP1TCt/image.png"
+    }, {
+        "id": 4,
+        "key": "yy",
+        "name": "Orthopedics",
+        "discription": "Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services  e-services.",
+       
+       
+        "salary": 3000,
+        
+        "img": "https://i.ibb.co/gdFSpvn/image.png"
+    }, {
+        "id": 5,
+        "key": "tt",
+        "name": "Laboratory",
+        "discription": "Credibly innovate granular internal or “organic” sources whereas high standards in web-readiness. Energistically scale future-proof core competencies",
+        "salary": 5000,
+        "img": "https://i.ibb.co/HqkZHkM/image.png"
+    }, {
+        "id": 6,
+        "key": "dd",
+        "name": "Pediatrics ",
+        "discription": "Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architectures.",
+        "salary": 2000,
+        "img": "https://i.ibb.co/mDq1qkr/image.png"
+    }
+]
